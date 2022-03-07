@@ -103,5 +103,8 @@ theme: next
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/xlong-zh/xlong-zh.github.io.git
+  repo: https://gitee.com/xlong-zh/xlong-zh.git
   branch: master
+  # type: git
+  # repo: https://github.com/xlong-zh/xlong-zh.github.io.git
+  # branch: master
