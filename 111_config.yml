@@ -3,13 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: xlong-zh's blog
-subtitle: 
-description: coder coder coder
+title: Hexo
+subtitle: ''
+description: ''
 keywords:
-author: xlong-zh
+author: John Doe
 language: en
-# language: zh-CN
 timezone: ''
 
 # URL
@@ -46,14 +45,12 @@ relative_link: false
 future: true
 syntax_highlighter: highlight.js
 highlight:
-  enable: true
   line_number: true
   auto_detect: false
   tab_replace: ''
   wrap: true
   hljs: false
 prismjs:
-  enable: false
   preprocess: true
   line_number: true
   tab_replace: ''
@@ -99,15 +96,9 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-# theme: next
 theme: landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  # type: git
-  # repo: https://gitee.com/xlong-zh/xlong-zh.git
-  # branch: master
-  type: git
-  repo: https://github.com/xlong-zh/xlong-zh.github.io.git
-  branch: main
+  type: ''
